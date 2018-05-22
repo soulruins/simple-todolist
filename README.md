@@ -26,5 +26,5 @@
 
 Программа не требует установки и состоит из одного файла `Simple ToDoList.exe`.
 
-* x86: [Simple ToDoList.exe](https://gitlab.kamov.ru/philip/simple-todolist/raw/master/bin/x86/Simple%20ToDoList.exe)
-* x64: [Simple ToDoList.exe](https://gitlab.kamov.ru/philip/simple-todolist/raw/master/bin/x86/Simple%20ToDoList.exe)
+* x86: [Simple ToDoList.exe](/bin/x86/Simple%20ToDoList.exe)
+* x64: [Simple ToDoList.exe](/bin/x86/Simple%20ToDoList.exe)
