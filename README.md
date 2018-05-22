@@ -17,7 +17,6 @@
 ## Требования
 
 * **Windows**
-* **PowerShell** Version 2.0 и выше
 * **.NET Framework** 2.0 и выше
 
 ## Внешний вид
