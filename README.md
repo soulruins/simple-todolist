@@ -28,4 +28,4 @@
 
 Программа не требует установки и состоит из одного файла `Simple ToDoList.exe`.
 
-* Скачать актуальный релиз: [Simple ToDoList.exe](releases/latest)
+* Скачать актуальный релиз: [Simple ToDoList.exe](https://github.com/soulruins/simple-todolist/releases/latest)
